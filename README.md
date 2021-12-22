@@ -1,1 +1,1 @@
-# WebesAlkalmazasok  Órai Webesalkalmazás feladatok
+# WebesAlkalmazasok    Órai Webesalkalmazás feladatok
